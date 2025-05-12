@@ -37,22 +37,9 @@ These are used to construct payoff matrices and compute equilibria.
 - Simulation of multi-agent interactions
 - Sensitivity analysis (obstacle shift, irrational drivers)
 
-## 📂 Structure
-
-- `game_model.py` – Core simulation engine.
-- `payoff_tables/` – Data used for experiments.
-- `docs/` – PDF of the full report and supplementary visuals.
-
-## 📈 Future Work
-
-Explore Bayesian game modeling for uncertain human behavior (e.g., identifying drunk/sober drivers) and adaptive strategy learning for AVs.
-
 ## 🧑‍💻 Authors
-
-- Maryam Gholamishiri  
+ 
 - Hamid Mohammadi  
 - Supervisor: Laura Crosara
 
-## 📄 License
 
-This project is for academic and educational purposes. Please cite the original authors when using or building upon this work.
